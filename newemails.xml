@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Message>
+    <Sender>Outlook</Sender>
+    <Subject>Outlook Welcome Email</Subject>
+    <Body>Dear user, welcome to our E-mail. Please follow the instructions in the previous message to activate your account!</Body>
+    <date>17 Jan 2018</date>
+  </Message>
+  <Message>
+    <Sender>Outlook</Sender>
+    <Subject>Outlook Activation Email</Subject>
+    <Body>Dear user, welcome to our E-mail. We are happy to have you. Please follow the link to activate your account!</Body>
+    <date>17 Jan 2018</date>
+  </Message>
+  <Message>
+    <Sender>Tasty Meals</Sender>
+    <Subject>20 Qucik Recipes</Subject>
+    <Body>Wow I can't believe it's already Friday!!!!!! Can you? We've put some of our favourite snack ideas on the blog. Check it out!</Body>
+    <date>17 Jan 2018</date>
+  </Message>
+  <Message>
+    <Sender>Merve Restaurant</Sender>
+    <Subject>Gala Night Invitation</Subject>
+    <Body>Hello dear customer. This year we are celebrating our 5th birtday and would like to invite you to our Gala evening. Please notify us of your attendance by e-mail.</Body>
+    <date>17 Jan 2018</date>
+  </Message>
+</ArrayOfMessage>
